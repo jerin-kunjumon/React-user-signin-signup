@@ -6,8 +6,8 @@ const App = () => {
     <div>
       <Header />
       <Container className='my-2'>
-      <Outlet />
-        </Container>
+        <Outlet />
+      </Container>
 
 
     </div>
